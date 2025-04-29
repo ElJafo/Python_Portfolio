@@ -6,11 +6,16 @@ This is a collection of Python projects I'm building as part of my learning and 
 I'm putting in the effort to keep things clean, well-organized, and properly structured — but at the end of the day, this is also a side quest I'm doing because I enjoy it.
 
 Each project here has its own README and dependencies (if needed), and I’m trying to keep everything modular and lightweight.
-📚 Projects
+
+# 📚 Projects
 Project	Description
-Hello World	A classic. Basic project structure + clean execution.
+
+Hello World	
+A classic. Basic project structure + clean execution.
+
 (More projects coming soon.)	Stay tuned.
-🛠️ Tools and Practices
+
+# 🛠️ Tools and Practices
 
     Python 3.x
 
@@ -22,7 +27,7 @@ Hello World	A classic. Basic project structure + clean execution.
 
     Keeping the repo modular and easy to navigate
 
-🚀 How to Run
+# 🚀 How to Run
 
 Clone the repo:
 
@@ -36,12 +41,14 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 Then just dive into any project folder you want.
-✨ About Me
+
+# ✨ About Me
 
 I'm Jafo.
 Coding is one of the ways I like to build things, challenge myself, and keep learning.
-This portfolio is me documenting that — clean code, a bit of chaos, a lot of curiosity.
-📝 Notes
+This portfolio is me documenting that — clean code, a bit of chaos, a lot of curiosity. I had learned Python years ago but I'm trying to re-learn it and build a portfolio along the way.
+
+# 📝 Notes
 
 New projects will be added over time, depending on how life (and side quests) go.
 Thanks for passing by.
