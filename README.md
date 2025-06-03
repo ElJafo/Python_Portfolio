@@ -31,8 +31,8 @@ A classic. Basic project structure + clean execution.
 
 Clone the repo:
 
-git clone https://github.com/YOUR_USERNAME/python-portfolio.git
-cd python-portfolio
+git clone https://github.com/ElJafo/Python_Portfolio.git
+cd Python_Portfolio
 
 Set up your environment:
 
