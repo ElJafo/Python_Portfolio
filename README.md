@@ -8,10 +8,13 @@ I'm putting in the effort to keep things clean, well-organized, and properly str
 Each project here has its own README and dependencies (if needed), and I’m trying to keep everything modular and lightweight.
 
 # 📚 Projects
-Project	Description
 
-Hello World	
-A classic. Basic project structure + clean execution.
+Title: Hello World
+Directory name: /Python_Portfolio/Hello/
+Description: A classic, basic greeting. We all started here.
+
+------------------------------------------------------------
+
 
 (More projects coming soon.)	Stay tuned.
 
