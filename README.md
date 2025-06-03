@@ -10,7 +10,9 @@ Each project here has its own README and dependencies (if needed), and I’m try
 # 📚 Projects
 
 Title: Hello World
+
 Directory name: /Python_Portfolio/Hello/
+
 Description: A classic, basic greeting. We all started here.
 
 ------------------------------------------------------------
