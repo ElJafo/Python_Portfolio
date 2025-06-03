@@ -42,7 +42,9 @@ cd Python_Portfolio
 Set up your environment:
 
 python3 -m venv venv
+
 source venv/bin/activate
+
 pip install -r requirements.txt
 
 Then just dive into any project folder you want.
