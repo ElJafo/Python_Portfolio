@@ -22,7 +22,7 @@ Description: A classic, basic greeting. We all started here.
 
 # Tools and Practices
 
-    Python 3.x
+    Python 3.12.3
 
     Virtual environments (venv)
 
