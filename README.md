@@ -1,4 +1,4 @@
-# 🐍 Python Portfolio
+# Python Portfolio
 
 Hey, welcome.
 
@@ -7,7 +7,7 @@ I'm putting in the effort to keep things clean, well-organized, and properly str
 
 Each project here has its own README and dependencies (if needed), and I’m trying to keep everything modular and lightweight.
 
-# 📚 Projects
+# Projects
 
 Title: Hello World
 
@@ -20,7 +20,7 @@ Description: A classic, basic greeting. We all started here.
 
 (More projects coming soon.)	Stay tuned.
 
-# 🛠️ Tools and Practices
+# Tools and Practices
 
     Python 3.x
 
@@ -32,7 +32,7 @@ Description: A classic, basic greeting. We all started here.
 
     Keeping the repo modular and easy to navigate
 
-# 🚀 How to Run
+# How to Run
 
 Clone the repo:
 
@@ -49,13 +49,13 @@ pip install -r requirements.txt
 
 Then just dive into any project folder you want.
 
-# ✨ About Me
+# About Me
 
 I'm Jafo.
 Coding is one of the ways I like to build things, challenge myself, and keep learning.
 This portfolio is me documenting that — clean code, a bit of chaos, a lot of curiosity. I had learned Python years ago but I'm trying to re-learn it and build a portfolio along the way.
 
-# 📝 Notes
+# Notes
 
 New projects will be added over time, depending on how life (and side quests) go.
 Thanks for passing by.
