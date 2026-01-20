@@ -1,4 +1,4 @@
-# 👋 Hello World (Python)
+# Hello World (Python)
 
 This is the classic "Hello, World!" program — but done the right way.
 
@@ -8,6 +8,6 @@ Yeah, it's simple — but it's structured. Because even small things deserve to 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 
